@@ -13,4 +13,4 @@ Vetted, senior engineers & AI builders — delivered through a tight pilot, then
 - Data & Analytics (pipelines, dashboards, warehouses)
 
 ## Links
-- Website: https://vertxtalent.io
+- Website: https://vertxtalent.io (coming soon)
