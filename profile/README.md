@@ -14,3 +14,4 @@ Vetted, senior engineers & AI builders — delivered through a tight pilot, then
 
 ## Links
 - Website: https://vertxtalent.io (coming soon)
+- Email: hello@vertxtalent.io
